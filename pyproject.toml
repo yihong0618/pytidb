@@ -42,7 +42,7 @@ dev = [
     "mypy>=1.15.0",
     "mcp[cli]>=1.6.0",
     "mcp",
-    "click",
+    "click>=8.2.1",
 ]
 
 # Test
