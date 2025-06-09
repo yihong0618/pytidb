@@ -21,6 +21,7 @@ tidb-mcp-server = "pytidb.ext.mcp:main"
 mcp = [
     "mcp[cli]>=1.6.0",
     "mcp",
+    "click",
 ]
 pandas = [
     "pandas"
